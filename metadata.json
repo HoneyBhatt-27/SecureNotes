@@ -1,0 +1,6 @@
+{
+  "name": "Secure Notes",
+  "description": "A highly secure web application for managing and storing end-to-end encrypted notes with secure user authentication and zero-knowledge architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
